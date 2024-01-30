@@ -1,0 +1,7 @@
+{
+  "id": "dronenetworkdevtool",
+  "name": "Drone Network Dev Tool",
+  "author": "Aidanamite",
+  "description": "A mod designed to make it easy to design drone network JSONs for the AssetsLib",
+  "version": "1.0.2"
+}
